@@ -1,6 +1,5 @@
-
-import os
-import sys
+# 𝐈,𝐀𝚖 
+import os, sys
 
 PSH_TEAM_KEY = bytes([216, 168, 216, 174, 32, 240, 159, 145, 128]).decode()
 
